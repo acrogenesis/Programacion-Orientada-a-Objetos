@@ -1,0 +1,5 @@
+101 1 1 250 SalaA
+102 1 0 120	SalaB
+103 0 1 200 SalaC
+104 0 0 100 SalaD
+105 1 1 200 SalaE
